@@ -1,0 +1,7 @@
+Unix `cat` broke on my Mac. I think the /bin/cat file got corrupted or
+something.  Since I didn't have access to another Mac running the same OS to
+mirror it from, I decided to just write my own cat. Should be simple, right?
+
+Accepts no flags. (But who uses cat flags anyway?)
+
+Includes both a POSIX and a C stdlib variant.
